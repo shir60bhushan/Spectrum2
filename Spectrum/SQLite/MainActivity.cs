@@ -55,6 +55,8 @@ namespace SQLite
                 if (data1 != null)
                 {
                     Toast.MakeText(this, "Login Success", ToastLength.Short).Show();
+                    StartActivity(typeof(ListofUsersActivity));
+
                   
                 }
                 else

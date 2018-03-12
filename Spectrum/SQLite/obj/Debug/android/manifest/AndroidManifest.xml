@@ -12,6 +12,7 @@
       </intent-filter>
     </activity>
     <activity android:label="RegisterActivity" android:name="md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity" />
+    <activity android:label="ListofUsersActivity" android:name="md5669b0693ed80bd11f83592b00c57b22d.ListofUsersActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SQLite.SQLite.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

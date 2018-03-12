@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{EE1BEAD0-2D2B-4F29-A5FA-946262609CAA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Spectrum Status">
     <Files>
+      <File FileName="SQLite/Assets/AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="SQLite/Properties/AndroidManifest.xml" Line="8" Column="12" />
+      <File FileName="SQLite/MainActivity.cs" Line="21" Column="10" />
+      <File FileName="SQLite/ListofUsersActivity.cs" Line="34" Column="33" />
+      <File FileName="SQLite/RegisterActivity.cs" Line="1" Column="1" />
+      <File FileName="SQLite/LoginTable.cs" Line="1" Column="1" />
       <File FileName="Spectrum Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Spectrum PreferredExecutionTarget="Android.new_device" />
+  <MonoDevelop.Ide.ItemProperties.Spectrum AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.new_device" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

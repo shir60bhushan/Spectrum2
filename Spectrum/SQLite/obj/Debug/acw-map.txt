@@ -6,3 +6,7 @@ SQLite.RegisterActivity, SQLite;md5669b0693ed80bd11f83592b00c57b22d.RegisterActi
 SQLite.RegisterActivity, SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity
 SQLite.RegisterActivity;md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity
 sqlite.RegisterActivity;md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity
+SQLite.ListofUsersActivity, SQLite;md5669b0693ed80bd11f83592b00c57b22d.ListofUsersActivity
+SQLite.ListofUsersActivity, SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5669b0693ed80bd11f83592b00c57b22d.ListofUsersActivity
+SQLite.ListofUsersActivity;md5669b0693ed80bd11f83592b00c57b22d.ListofUsersActivity
+sqlite.ListofUsersActivity;md5669b0693ed80bd11f83592b00c57b22d.ListofUsersActivity

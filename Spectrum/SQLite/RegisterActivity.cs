@@ -36,11 +36,9 @@ namespace SQLite
 
         private void Btncreate_Click(object sender, EventArgs e)
         {
-
             try
             {
                 Boolean IsValid = false;
-
                 const string passwordRegex = @"^(?=.*[A-Za-z])(?=.*\d)(?=.*[$@$!%*#?&])[A-Za-z\d$@$!%*#?&]{8,}$"; 
                 IsValid = Regex.IsMatch(txtPassword.Text, passwordRegex, RegexOptions.IgnoreCase, TimeSpan.FromMilliseconds(250));
 
@@ -59,9 +57,7 @@ namespace SQLite
                 }
                 else{
                     Toast.MakeText(this, "Enter proper format of password", ToastLength.Short).Show();
-
                 }
-           
             }
             catch(Exception ex)
             {
