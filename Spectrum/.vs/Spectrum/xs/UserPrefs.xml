@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EE1BEAD0-2D2B-4F29-A5FA-946262609CAA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spectrum Status">
+    <Files>
+      <File FileName="Spectrum Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Spectrum PreferredExecutionTarget="Android.new_device" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

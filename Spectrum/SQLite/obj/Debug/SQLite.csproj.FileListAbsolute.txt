@@ -1,0 +1,17 @@
+/Users/bhushansrisath/Downloads/SQLite/SQLite/bin/Debug/SQLite.dll
+/Users/bhushansrisath/Downloads/SQLite/SQLite/bin/Debug/SQLite.pdb
+/Users/bhushansrisath/Downloads/SQLite/SQLite/bin/Debug/SQLite.SQLite.apk
+/Users/bhushansrisath/Downloads/SQLite/SQLite/bin/Debug/SQLite.SQLite-Signed.apk
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/SQLite.csproj.CoreCompileInputs.cache
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/SQLite.dll
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/SQLite.pdb
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/android/bin/SQLite.SQLite.apk
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/res/layout/newuser.xml
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/res/layout/main.xml
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/res/values/strings.xml
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/res/drawable/icon.png
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/R.cs.flag
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/uploadflags.txt
+/Users/bhushansrisath/Downloads/SQLite/SQLite/bin/Debug/Mono.Android.pdb
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/linksrc/SQLite.pdb
+/Users/bhushansrisath/Downloads/SQLite/SQLite/obj/Debug/linksrc/Mono.Android.pdb
